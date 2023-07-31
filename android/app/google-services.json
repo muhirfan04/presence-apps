@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "582725282924",
+    "project_id": "presence-ccc11",
+    "storage_bucket": "presence-ccc11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582725282924:android:2a0eecdd6931891b087c49",
+        "android_client_info": {
+          "package_name": "com.muhirfan.presenceapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "582725282924-sfe8fnrev6njl9gf7qtpmmvs6a38k1nl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.muhirfan.presenceapp",
+            "certificate_hash": "c838e4f56108de36c50e49a0beeaf77b4fd7d03a"
+          }
+        },
+        {
+          "client_id": "582725282924-0j8e99b05v68pp9hithv3venobiiuknf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9BczkVyCNDRngKvX44r5BGPK1iSBNJWI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "582725282924-0j8e99b05v68pp9hithv3venobiiuknf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "582725282924-jjns6msgdqr5qagv862krunohmdksh0o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.muhirfan.presenceapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
